@@ -1,4 +1,4 @@
-# Projeto: Sistema de Gestão para Escritório de Advocacia
+# Projeto: Sistema de Gestão para Escritório de Advocacia 
 
 **Matéria:** Gerência de Configuração e Evolução de Software (2026.2)  
 **Professor:** Thiago Luiz de Souza  
