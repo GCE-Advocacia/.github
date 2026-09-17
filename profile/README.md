@@ -27,10 +27,14 @@ O projeto original foi idealizado e construído em uma matéria do semestre pass
 
 ##  Quadro de Contribuições
 
-| Integrante | Atividades / O que fez no projeto | Data |
-| :--- | :--- | :--- |
-| **Isabelle, Arthur e Bessa** | Separação do componente de criação e edição de tarefas para permitir sua reutilização em processos. | 16/09/26 |
-| **Isabelle, Arthur e Bessa** | Front: Criação de um espaço para tarefas na ficha de processo. | 16/09/26 |
-| **Isabelle, Arthur e Bessa** | Permitir usuário adicionar uma tarefa direto pela ficha de um processo. | 16/09/26 |
+| **Integrante**               | **Atividades / O que fez no projeto**                                                               | **Data** | **Commits**                                                                                                                                                   |
+| ---------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Isabelle, Arthur e Bessa** | Separação do componente de criação e edição de tarefas para permitir sua reutilização em processos. | 16/09/26 | —                                                                                                                                                             |
+| **Isabelle, Arthur e Bessa** | Front: Criação de um espaço para tarefas na ficha de processo.                                      | 16/09/26 | —                                                                                                                                                             |
+| **Isabelle, Arthur e Bessa** | Permitir usuário adicionar uma tarefa direto pela ficha de um processo.                             | 16/09/26 | —                                                                                                                                                             |
+| **Gabriel, Fabio e Daniel**  | Implementação inicial da funcionalidade de personalização das cores da Landing Page.                | 12/09/26 | [feat: personalização inicial de cores](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/8c84cd72b8e1f3da6deb619af950277ddcd49b86)                 |
+| **Gabriel, Fabio e Daniel**  | Adição do novo ColorPicker e funcionalidade para restaurar as cores para o padrão.                  | 13/09/26 | [feat: adiciona reset para o padrão e novo ColorPicker](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/258abee21f8308bb5a9e28b24c27dd69fcb1eb5f) |
+| **Gabriel, Fabio e Daniel**  | Adição de tooltips e melhoria dos labels existentes na interface de personalização.                 | 13/09/26 | [feat: adiciona tooltips e melhora labels existentes](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/f579dd79b6d0cb335dc4ef1ea21575b1601593c6)   |
+
 
 
