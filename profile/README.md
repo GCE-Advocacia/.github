@@ -34,7 +34,9 @@ O projeto original foi idealizado e construído em uma matéria do semestre pass
 | **Isabelle, Arthur e Bessa** | Permitir usuário adicionar uma tarefa direto pela ficha de um processo.                             | 16/09/26 | —                                                                                                                                                             |
 | **Gabriel, Fabio e Daniel**  | Implementação inicial da funcionalidade de personalização das cores da Landing Page.                | 12/09/26 | [feat: personalização inicial de cores](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/8c84cd72b8e1f3da6deb619af950277ddcd49b86)                 |
 | **Gabriel, Fabio e Daniel**  | Adição do novo ColorPicker e funcionalidade para restaurar as cores para o padrão.                  | 13/09/26 | [feat: adiciona reset para o padrão e novo ColorPicker](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/258abee21f8308bb5a9e28b24c27dd69fcb1eb5f) |
-| **Gabriel, Fabio e Daniel**  | Adição de tooltips e melhoria dos labels existentes na interface de personalização.                 | 13/09/26 | [feat: adiciona tooltips e melhora labels existentes](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/f579dd79b6d0cb335dc4ef1ea21575b1601593c6)   |
+| **Gabriel, Fabio e Daniel**  | Adição de tooltips e melhoria dos labels existentes na interface de personalização.                 | 13/09/26 | [feat: adiciona tooltips e melhora labels existentes](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/f579dd79b6d0cb335dc4ef1ea21575b1601593c6)|
+| **Anne, Pablo, Matheus   **  | Criação da estrutura de pagamentos no site e no banco de dados                                      | 13/09/26 | [Commit 96921df](https://github.com/GCE-Advocacia/tppe-advocacia-backend/commit/96921df292e64ba2ac311bfeffcca77101d9df17)|
+| **Matheus, Pablo, Anne   **  | Criação da Pagina "Pagamentos" com exibição de calendário e pagamentos                              | 14/09/26 | [Commit e23aea6](https://github.com/GCE-Advocacia/tppe-advocacia-frontend/commit/e23aea6475b74dda05326a0e39a5cb068f86caf4)|
 
 
 
