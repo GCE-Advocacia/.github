@@ -19,6 +19,7 @@ O projeto original foi idealizado e construído em uma matéria do semestre pass
 | <img src="https://github.com/fabinsz.png" width="50" style="border-radius:50%"> | Fabio Gabriel | [@fabinsz](https://github.com/fabinsz) |
 | <img src="https://github.com/guilhermezan42.png" width="50" style="border-radius:50%"> | Guilherme Costa | [@guilhermezan42](https://github.com/guilhermezan42) |
 | <img src="https://github.com/isacostaf.png" width="50" style="border-radius:50%"> | Isabelle da Costa | [@isacostaf](https://github.com/isacostaf) |
+| <img src="https://github.com/Jose1277.png" width="50" style="border-radius:50%"> | José Felipe Oliveira | [@Jose1277](https://github.com/Jose1277) |
 | <img src="https://github.com/lucasbbranco.png" width="50" style="border-radius:50%"> | Lucas Branco | [@lucasbbranco](https://github.com/lucasbbranco) |
 | <img src="https://github.com/mrodrigues14.png" width="50" style="border-radius:50%"> | Matheus Rodrigues | [@mrodrigues14](https://github.com/mrodrigues14) |
 | <img src="https://github.com/Pabloo8.png" width="50" style="border-radius:50%"> | Pablo Cunha | [@Pabloo8](https://github.com/Pabloo8) |
@@ -37,7 +38,7 @@ O projeto original foi idealizado e construído em uma matéria do semestre pass
 | **Gabriel, Fabio e Daniel**  | Adição de tooltips e melhoria dos labels existentes na interface de personalização.                 | 13/09/26 | [feat: adiciona tooltips e melhora labels existentes](https://github.com/Prg-maker/tppe-advocacia-frontend/commit/f579dd79b6d0cb335dc4ef1ea21575b1601593c6)|
 | **Anne, Pablo, Matheus**  | Criação da estrutura de pagamentos no site e no banco de dados                                      | 13/09/26 | [Commit 96921df](https://github.com/GCE-Advocacia/tppe-advocacia-backend/commit/96921df292e64ba2ac311bfeffcca77101d9df17)|
 | **Matheus, Pablo, Anne**  | Criação da Pagina "Pagamentos" com exibição de calendário e pagamentos                              | 14/09/26 | [Commit e23aea6](https://github.com/GCE-Advocacia/tppe-advocacia-frontend/commit/e23aea6475b74dda05326a0e39a5cb068f86caf4)|
-| **Lucas, José e Guilherme** | Criação da estrutura de lançamentos financeiros no banco de dados e do módulo financeiro na API, com valores em Decimal. | 14/09/26 | [PR backend #1](https://github.com/GCE-Advocacia/tppe-advocacia-backend/pull/1) |
+| **Lucas, José e Guilherme** | Criação da estrutura de lançamentos financeiros no banco de dados e do módulo financeiro na API. | 14/09/26 | [PR backend #1](https://github.com/GCE-Advocacia/tppe-advocacia-backend/pull/1) |
 | **Lucas, José e Guilherme** | Cadastro de entradas e saídas, listagem com filtro por período e resumo com totais e saldo na API, restritos ao administrador. | 14/09/26 | [PR backend #1](https://github.com/GCE-Advocacia/tppe-advocacia-backend/pull/1) |
 | **Lucas, José e Guilherme** | Criação da página de controle financeiro, restrita a administradores, com cards de totais, saldo e tabela paginada. | 14/09/26 | [PR frontend #1](https://github.com/GCE-Advocacia/tppe-advocacia-frontend/pull/1) |
 | **Lucas, José e Guilherme** | Cadastro de entradas e saídas pela tela, em um modal único, e filtro por período aplicado à tabela e aos cards. | 14/09/26 | [PR frontend #1](https://github.com/GCE-Advocacia/tppe-advocacia-frontend/pull/1) |
