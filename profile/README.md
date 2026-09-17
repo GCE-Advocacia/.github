@@ -27,8 +27,10 @@ O projeto original foi idealizado e construído em uma matéria do semestre pass
 
 ##  Quadro de Contribuições
 
-| Integrante | Atividades / O que fez no projeto | Data
-| :--- | :--- | :---
-| **Integrante** | *[Preencher com as atividades]* | dd/mm/aa |
+| Integrante | Atividades / O que fez no projeto | Data |
+| :--- | :--- | :--- |
+| **Isabelle, Arthur e Bessa** | Separação do componente de criação e edição de tarefas para permitir sua reutilização em processos. | 16/09/26 |
+| **Isabelle, Arthur e Bessa** | Front: Criação de um espaço para tarefas na ficha de processo. | 16/09/26 |
+| **Isabelle, Arthur e Bessa** | Permitir usuário adicionar uma tarefa direto pela ficha de um processo. | 16/09/26 |
 
 
